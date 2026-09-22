@@ -1,6 +1,7 @@
 <h1 align="center">⚔️ WoW Patagonia Launcher</h1>
 
 <p align="center"><b>Instalá, actualizá y jugá desde un solo lugar.</b></p>
+<img width="1202" height="702" alt="image" src="https://github.com/user-attachments/assets/4c6cef91-90c0-4e01-978f-043af19bc336" />
 
 ---
 
@@ -19,7 +20,9 @@
 1. Ingresa a [Versiones](https://github.com/gDn5/WPL-Releases/releases)
 2. Descargá **WowPatagoniaLauncher-win-Setup.exe**.
 3. Ejecutalo y abrí el launcher.
-4. Elegí la carpeta donde quieras descargar el juego, instala y jugá.
+> La primera vez que ejecutes el instalador es probable que SmartScreen te pida permiso ya que es una aplicación desconocida, es solo una medida de protección de Windows. Solo tienes que hacer click en "Mas información"/ "More info" y apretar el botón "Ejecutar"
+> El launcher esta libre de cualquier malware y todas las releases van a incorporar un escaneo del aplicativo en Virustotal
+5. Elegí la carpeta donde quieras descargar el juego, instala y jugá.
 
 > Requiere Windows de 64 bits y unos 16 GB libres para el cliente.
 
