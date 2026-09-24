@@ -21,10 +21,9 @@
 2. Descargá **WowPatagoniaLauncher-win-Setup.exe**.
 3. Ejecutalo y abrí el launcher.
 > La primera vez que ejecutes el instalador es probable que SmartScreen te pida permiso ya que es una aplicación desconocida, es solo una medida de protección de Windows. Solo tienes que hacer click en "Mas información"/ "More info" y apretar el botón "Ejecutar"
-> El launcher esta libre de cualquier malware y todas las releases van a incorporar un escaneo del aplicativo en Virustotal
-5. Elegí la carpeta donde quieras descargar el juego, instala y jugá.
+4. Elegí la carpeta donde quieras descargar el juego, instala y jugá.
 
-> Requiere Windows de 64 bits y unos 16 GB libres para el cliente.
+> Requiere Windows de 64 bits y unos 35 GB libres: el cliente pesa ~16 GB comprimidos, y el launcher necesita ese espacio extra para extraerlo (las partes descargadas se borran recién cuando termina).
 
 ## 🚀 Descarga e Instalación - Linux
 
@@ -39,7 +38,7 @@ curl -sL https://raw.githubusercontent.com/gDn5/WPL-Releases/main/install-native
 5. Una vez descargado e instalado el launcher va a figurar en tu menu de aplicaciones como "Wow Patagonia Launcher"  o podes ejecutarlo desde el directorio
 6. Elegí la carpeta donde quieras descargar el juego, instala y jugá.
 
-> Requiere Linux de 64 bits y unos 16 GB libres para el cliente, más ~1,8 GB para el prefijo de Wine (se crea la primera vez que inicia sesión automáticamente).
+> Requiere Linux de 64 bits y unos 35 GB libres para el cliente (~16 GB comprimidos más el espacio para extraerlo), más ~1,8 GB para el prefijo de Wine (se crea la primera vez que inicia sesión automáticamente).
 
 Para desinstalarlo:
 ```
