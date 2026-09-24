@@ -33,9 +33,15 @@
 ```
 curl -sL https://raw.githubusercontent.com/gDn5/WPL-Releases/main/install-native-linux.sh | bash
 ```
+> Te va a pedir tu contraseña (sudo) para instalar las dependencias del sistema (VLC, xdotool, ydotool, wine).
 3. Espera a que el launcher descargue e instale dependencias y el launcher.
 4. Cerra tu sesion de linux y volve a abrirla para que el inicio automatico funcione.
 5. Una vez descargado e instalado el launcher va a figurar en tu menu de aplicaciones como "Wow Patagonia Launcher"  o podes ejecutarlo desde el directorio
 6. Elegí la carpeta donde quieras descargar el juego, instala y jugá.
 
-> Requiere Linux de 64 bits y unos 16 GB libres para el cliente.
+> Requiere Linux de 64 bits y unos 16 GB libres para el cliente, más ~1,8 GB para el prefijo de Wine (se crea la primera vez que inicia sesión automáticamente).
+
+Para desinstalarlo:
+```
+curl -sL https://raw.githubusercontent.com/gDn5/WPL-Releases/main/install-native-linux.sh | bash -s -- --uninstall
+```
